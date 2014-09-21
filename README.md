@@ -8,7 +8,7 @@
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##to use run_analysis.R you must do the following:
-1. Download the data source and extract the files into your working directory
+1. Download the data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) and extract the files into your working directory
 2. Put ```run_analysis.R``` in your working directory
 3. Run ```source("run_analysis.R")``` to generate ```tidy_data_avg.txt``` in your working directory.
 
